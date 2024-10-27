@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mail>
+    <email>
+        <information>
+            <sender>maksym@gmail.com</sender>
+            <recipient>pasha@gmail.com</recipient>
+        
+        </information>
+        <content>
+            <subject>Friendly letter</subject>
+            <body>There should be some interesting text here, but I'm too lazy to come up with it</body>
+        </content>
+
+    </email>
+</mail>

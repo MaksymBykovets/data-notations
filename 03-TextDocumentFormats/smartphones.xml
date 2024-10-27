@@ -9,4 +9,13 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+    <smartphone brand="Iphone" model="14 Pro Max" releaseYear= "2022">
+        <specs>
+            <screenSize unit="inch">6.7</screenSize>
+            <batteryCapacity unit="mAh">4323</batteryCapacity>
+            <storage unit="GB">512</storage>
+            <camera unit="MP">48</camera>
+        </specs>
+        <price currency="USD">1000</price>
+    </smartphone>
 </smartphones>
