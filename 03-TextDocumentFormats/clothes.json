@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Hermes",
+        "founded": 1837,
+        "headquarters": "Paris, France",
+        "employees": 22040,
+        "products": [
+            "Casual Wear",
+            "Accessories",
+            "Sportswear"
+        ]
+    },
+    {
+        "name": "Cartier",
+        "founded": 1847,
+        "headquarters":"Paris, France",
+        "employees": 10000,
+        "products": [
+            "Outerwear",
+            "Casual Wear",
+            "Accessories"
+        ]
     }
 ]

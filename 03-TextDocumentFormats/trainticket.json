@@ -1,0 +1,10 @@
+[
+    {
+        "ticketType": "one wey",
+        "adult": true ,
+        "price": 19,
+        "from": "Lamesville",
+        "to": "Awesometown",
+        "valid": true
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "brand": "Dell",
+    "model": "Inspiron 15",
+    "year": 2023,
+    "screen": 15,
+    "sensPanel": true,
+    "camera": true,
+    "isTouchscreen": false,
+    "devices": ["touchpad","webcam"]
+    }
